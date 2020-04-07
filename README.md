@@ -52,7 +52,7 @@ Random Forests.
 
 On training data, the naive forecast RMSE is 541.8, while the mean RMSE across 3 folds of Gradient Boosting is 486.4. 
 
-On test data, the naive forecast RMSE is 599.7, while the mean RMSE across 3 folds of Gradient Boosting is __. 
+On test data, the naive forecast RMSE is 599.7, while the mean RMSE across 3 folds of Gradient Boosting is 265.6. 
 
 Due to time constraints, the hyperparameters for all models bar Gradient Boosting chosen by trial and error to see which ones 
 afforded the best results. Since Gradient Boosting was our best performing model on training data, we conducted a grid search 
